@@ -1,5 +1,0 @@
----
-title: "R statistics"
-site: distill::distill_website
-listing: posts
----
